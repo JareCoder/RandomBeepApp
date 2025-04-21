@@ -16,9 +16,14 @@ Follow these steps to run the app in development:
    git clone https://github.com/yourusername/random-beep-app.git
    cd random-beep-app
    ```
+
+
 2. **Open in IDE**
+
     Visual Studio has drag-and-drop UI design for WinFroms. Using VS is not necessary. App was developed with VSCode (hence UI defined in code).
+
 3. **Run the app**
+
     Press F5 in Vistual Studio
     or run with CLI:
     ```bash
