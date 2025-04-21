@@ -1,0 +1,14 @@
+D:\VSCode\RandomBeep\BeepGUIApp\bin\Debug\net9.0-windows\BeepGUIApp.exe
+D:\VSCode\RandomBeep\BeepGUIApp\bin\Debug\net9.0-windows\BeepGUIApp.deps.json
+D:\VSCode\RandomBeep\BeepGUIApp\bin\Debug\net9.0-windows\BeepGUIApp.runtimeconfig.json
+D:\VSCode\RandomBeep\BeepGUIApp\bin\Debug\net9.0-windows\BeepGUIApp.dll
+D:\VSCode\RandomBeep\BeepGUIApp\bin\Debug\net9.0-windows\BeepGUIApp.pdb
+D:\VSCode\RandomBeep\BeepGUIApp\obj\Debug\net9.0-windows\BeepGUIApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\RandomBeep\BeepGUIApp\obj\Debug\net9.0-windows\BeepGUIApp.AssemblyInfoInputs.cache
+D:\VSCode\RandomBeep\BeepGUIApp\obj\Debug\net9.0-windows\BeepGUIApp.AssemblyInfo.cs
+D:\VSCode\RandomBeep\BeepGUIApp\obj\Debug\net9.0-windows\BeepGUIApp.csproj.CoreCompileInputs.cache
+D:\VSCode\RandomBeep\BeepGUIApp\obj\Debug\net9.0-windows\BeepGUIApp.dll
+D:\VSCode\RandomBeep\BeepGUIApp\obj\Debug\net9.0-windows\refint\BeepGUIApp.dll
+D:\VSCode\RandomBeep\BeepGUIApp\obj\Debug\net9.0-windows\BeepGUIApp.pdb
+D:\VSCode\RandomBeep\BeepGUIApp\obj\Debug\net9.0-windows\BeepGUIApp.genruntimeconfig.cache
+D:\VSCode\RandomBeep\BeepGUIApp\obj\Debug\net9.0-windows\ref\BeepGUIApp.dll
