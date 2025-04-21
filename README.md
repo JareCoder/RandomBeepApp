@@ -5,6 +5,9 @@ It needed to be easy to use, simple to configure settings, and be easily distrib
 Feedback is used to refine coaching methods.
 
 > ⚠️ **Note:** On first launch, the app will generate a `settings.json` file with default values.
+
+![image](https://github.com/user-attachments/assets/d9db3093-d89e-4ecd-b1c5-2218a99cc8aa)
+
 ---
 
 ## 🛠️ Development Setup
