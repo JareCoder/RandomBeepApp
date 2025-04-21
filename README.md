@@ -1,4 +1,4 @@
-# Random Beep app
+# Random Beep App
 
 The app was developed to test a proof of concept idea for coaching.  
 It needed to be easy to use, simple to configure settings, and be easily distributed to a handful of test users.  
