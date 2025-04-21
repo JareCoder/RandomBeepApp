@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BeepGUIApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26d6637165ae3df19380711eddbf180869d97e39")]
 [assembly: System.Reflection.AssemblyProductAttribute("BeepGUIApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BeepGUIApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

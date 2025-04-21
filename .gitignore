@@ -1,1 +1,35 @@
+# Build folders
+bin/
+obj/
+publish/
+
+# Rider / VSCode / Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider
+.idea/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Logs
+*.log
+
+# .NET publish output
+**/bin/
+**/obj/
+**/publish/
+
+# Other system files
+Thumbs.db
+.DS_Store
+
+# Runtime-generated configs
 *.json
